@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "NOVARIA",
+    "slug": "novaria",
+    "scheme": "novaria",
+    "orientation": "portrait",
+    "plugins": [
+      "expo-router",
+      "expo-sqlite"
+    ],
+    "android": {
+      "package": "com.thecompany.novaria"
+    },
+    "ios": {
+      "bundleIdentifier": "com.thecompany.novaria"
+    }
+  }
+}
